@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassDataFromActivityToFragment</string>
+    <string name="enter_your_message">ENTER YOUR MESSAGE</string>
+    <string name="send_data">Send data</string>
+</resources>
